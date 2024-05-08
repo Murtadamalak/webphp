@@ -1,5 +1,5 @@
 # webphp
-A project for a well based application with PHP.
+A project for a web based application with PHP.
 database name : webb
 table name : af
 table columns : id , username , password , per 
